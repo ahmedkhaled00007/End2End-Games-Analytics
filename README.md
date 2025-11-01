@@ -20,7 +20,7 @@ Key components include:
 ---
 
 ## Folder Structure
-
+```
 End2EndAnalytics_Games/
 ├─ 01_Data/
 │  ├─ raw/             # Original datasets
@@ -44,7 +44,7 @@ End2EndAnalytics_Games/
 │  ├─ methodology.md
 │  └─ results_summary.md
 └─ README.md
-
+```
 
 ---
 
@@ -53,8 +53,9 @@ End2EndAnalytics_Games/
 Install Python dependencies using requirements.txt:
 
 bash
+```
 pip install -r 02_Python/requirements.txt
-
+```
 ## Author
 
 This project was created by *Ahmed*.
